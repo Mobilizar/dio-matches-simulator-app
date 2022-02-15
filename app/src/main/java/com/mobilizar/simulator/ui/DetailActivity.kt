@@ -1,4 +1,4 @@
-package com.mobilizar.simulator
+package com.mobilizar.simulator.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
