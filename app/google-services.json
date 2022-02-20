@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096861370956",
+    "project_id": "simulator-dio-sportheca-dbdee",
+    "storage_bucket": "simulator-dio-sportheca-dbdee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096861370956:android:251af5d024c0e25c4ac2e9",
+        "android_client_info": {
+          "package_name": "com.mobilizar.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096861370956-gqm7gpdr4nac12trqjg1v9jsh6fpn19d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxacDzCUlnOIto5LLkOv3DpX1Kfpdrb9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096861370956-gqm7gpdr4nac12trqjg1v9jsh6fpn19d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
